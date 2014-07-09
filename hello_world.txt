@@ -1,2 +1,3 @@
 print("hello world") << forgot ")"
-a second line
+
+removed second line added third
